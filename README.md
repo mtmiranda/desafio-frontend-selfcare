@@ -1,10 +1,10 @@
-# Desafio FrontEnd - Selfcare
+# Desafio Front-end - Selfcare
 
 Projeto criado com objetivo de consumir e exibir dados de um json na listagem de produtos fictícios.
 
-Layout feito com styled-components e responsivo
+Layout feito com styled-components e responsivo.
 
-## Get Started
+## Get started
 
 ```
 npm install
